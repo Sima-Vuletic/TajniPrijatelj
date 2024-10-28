@@ -19,6 +19,7 @@ python GUIprijatelj.py
 Napomene:
 Da bi se poruke mogle poslati treba u pregledniku otvoriti whatsapp web i ulogirati se na racun.
 Osoba koja je ulogirana ne moze sudjelovati u tajnom prijatelju radi povjerljivosti!
+Broj mora pocimati s pozivnim brojem drzave i zapisan bez razmaka; 385123456789
 
 # Druga verzija
 
