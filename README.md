@@ -19,4 +19,13 @@ python GUIprijatelj.py
 Napomene:
 Da bi se poruke mogle poslati treba u pregledniku otvoriti whatsapp web i ulogirati se na racun.
 Osoba koja je ulogirana ne moze sudjelovati u tajnom prijatelju radi povjerljivosti!
-Izvodjenjek koda traje n*2 minute gdje je n broj sudionika, te ovisno o broju sudionika moglo bi potrajati.
+
+# Druga verzija
+
+Omogucuje unos podataka preko datoteke, sto olaksava koristenje za veliki broj sudionika.
+Datoteka sa podatcima bi trebala biti u obliku:
+```bash
+<ime> <broj>
+<ime> <broj>
+ ...  ...
+```
