@@ -27,5 +27,5 @@ Datoteka sa podatcima bi trebala biti u obliku:
 ```bash
 <ime> <broj>
 <ime> <broj>
- ...  ...
+ ...   ...
 ```
